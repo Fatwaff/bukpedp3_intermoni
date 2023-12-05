@@ -1,0 +1,138 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.animate-fade {
+  animation: fadeIn 1.5s ease-in-out;
+}
+
+@keyframes fadeDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-50px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-down {
+  animation: fadeDown 2s ease-in-out;
+}
+
+@keyframes fadeUp {
+  0% {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-up {
+  animation: fadeUp 2s ease-in-out;
+}
+
+@keyframes fadeRight {
+  0% {
+    opacity: 0;
+    transform: translateX(-50px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.animate-fade-right {
+  animation: fadeRight 1s ease-in-out;
+}
+
+@keyframes moveLeftRight {
+  0% {
+    transform: translateX(-100%); /* Mulai dari luar layar sebelah kiri */
+  }
+  100% {
+    transform: translateX(100%); /* Berakhir di luar layar sebelah kanan */
+  }
+}
+
+.animate-left-to-right {
+  animation: moveLeftRight 20s linear infinite;
+}
+
+@keyframes moveRightToLeft {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.animate-right-to-left {
+  animation: moveRightToLeft 20s linear infinite;
+}
+
+/* scroll */
+.fade-in-element-left {
+  opacity: 0;
+  transform: translateX(-50px);
+  transition: opacity 3s ease, transform 4s ease;
+}
+
+.fade-in-element-left.visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.fade-in-element-right {
+  opacity: 0;
+  transform: translateX(50px);
+  transition: opacity 3s ease, transform 4s ease;
+}
+
+.fade-in-element-right.visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.fade-in-element-bottom {
+  opacity: 0;
+  transform: translateY(50px); /* Move element 50 pixels down initially */
+  transition: opacity 2s ease, transform 4s ease;
+}
+
+.fade-in-element-bottom.visible {
+  opacity: 1;
+  transform: translateY(0); /* Reset the position */
+}
+
+/* Password */
+.active.hs-password-active\:block {
+  display: block;
+}
+
+.active.hs-password-active\:hidden {
+  display: none;
+}
+
+.active .hs-password-active\:block {
+  display: block;
+}
+
+.active .hs-password-active\:hidden {
+  display: none;
+}
