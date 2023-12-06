@@ -2,9 +2,7 @@
 
 **_Sinopsis Naskah_**
 
-Pendidikan tinggi menjadi tonggak penting dalam perjalanan menuju karir yang sukses, dan program magang adalah bagian integral dari pengalaman pendidikan tersebut. Namun, mengelola dan memonitor proses magang sering kali menjadi tugas yang rumit.
-Melalui buku ini, kami berusaha memberikan solusi praktis dengan mengenalkan konsep dan teknologi-teknologi modern yang digunakan dalam membangun aplikasi monitoring magang. Kami yakin bahwa dengan pemahaman mendalam tentang HTML, Tailwind CSS, JavaScript, Golang, dan Google Cloud Platform, pembaca dapat mengembangkan aplikasi yang efisien dan dapat diandalkan.
-Buku ini tidak hanya menawarkan panduan langkah demi langkah, tetapi juga memberikan wawasan tentang pentingnya integrasi teknologi untuk meningkatkan efektivitas dan efisiensi proses magang. Kami berharap buku ini dapat menjadi sumber inspirasi dan pengetahuan yang berharga dalam perjalanan pengembangan aplikasi Anda.
+Pendidikan menjadi hal penting dalam perjalanan menuju karir yang sukses, dan program magang adalah bagian yang penting dalam perjalanan tersebut. Namun, mengelola dan memonitor proses magang sering kali menjadi tugas yang rumit.Melalui buku ini, akan diberikan solusi dengan mengenalkan konsep dan teknologi-teknologi modern yang digunakan dalam membangun aplikasi monitoring magang. Dengan pemahaman mendalam tentang HTML, Tailwind CSS, JavaScript, Golang, dan Google Cloud Platform, pembaca dapat mengembangkan aplikasi yang dapat diandalkan.Buku ini tidak hanya menawarkan panduan langkah demi langkah, tetapi juga memberikan wawasan tentang pentingnya integrasi teknologi untuk meningkatkan efektivitas proses magang. Diharapkan buku ini dapat menjadi sumber inspirasi dan pengetahuan yang berharga dalam perjalanan pengembangan aplikasi.
 
 ![1](https://github.com/Fatwaff/bukpedp3_intermoni/assets/96001238/d2dc4216-4f7b-4e62-ab48-56238dbe04eb)
 
