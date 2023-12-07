@@ -8,7 +8,7 @@ Pendidikan menjadi hal penting dalam perjalanan menuju karir yang sukses, dan pr
 
 **Biografi Penulis**
 
-**Penulis 1 :** Fatwa Fatahillah Fatah, lahir di Kota Baubau pada tanggal 06 Mei 2001. Pendidikan tingkat dasar hingga Atas ditempuh di Baubau. Mulai merantau sejak Kuliah, melatih kemandiriannya di SMANSA Baubau dengan aktif organisasi Palang Merah, Pengurus OSIS dan Pendiri Dewan Keamanan Sekolah. Melanjutkan pendidikan S1 di Universitas Logistik dan Bisnis Internasional, Bandung.
+**Penulis 1 :** Fatwa Fatahillah Fatah, lahir di Kota Baubau pada tanggal 06 Mei 2001. Pendidikan tingkat dasar hingga Atas ditempuh di Baubau. Mulai merantau sejak Kuliah, melatih kemandiriannya di SMANSA Baubau dengan aktif organisasi Palang Merah. Melanjutkan pendidikan S1 di Universitas Logistik dan Bisnis Internasional, Bandung.
 
 ![fatwa](https://github.com/Fatwaff/bukpedp3_intermoni/assets/96001238/424658e1-d4a2-4a1e-ba53-d2f6969f03e1)
 
