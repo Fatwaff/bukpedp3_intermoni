@@ -1,10 +1,10 @@
-# Tutorial Membangun Aplikasi Monitoring Magang
+# Tutorial Membangun Aplikasi Monitoring Magang Menggunakan Golang dan JavaScript
 
 **_Sinopsis Naskah_**
 
 Pendidikan menjadi hal penting dalam perjalanan menuju karir yang sukses, dan program magang adalah bagian yang penting dalam perjalanan tersebut. Namun, mengelola dan memonitor proses magang sering kali menjadi tugas yang rumit.Melalui buku ini, akan diberikan solusi dengan mengenalkan konsep dan teknologi-teknologi modern yang digunakan dalam membangun aplikasi monitoring magang. Dengan pemahaman mendalam tentang HTML, Tailwind CSS, JavaScript, Golang, dan Google Cloud Platform, pembaca dapat mengembangkan aplikasi yang dapat diandalkan.Buku ini tidak hanya menawarkan panduan langkah demi langkah, tetapi juga memberikan wawasan tentang pentingnya integrasi teknologi untuk meningkatkan efektivitas proses magang. Diharapkan buku ini dapat menjadi sumber inspirasi dan pengetahuan yang berharga dalam perjalanan pengembangan aplikasi.
 
-![1](https://github.com/Fatwaff/bukpedp3_intermoni/assets/96001238/d2dc4216-4f7b-4e62-ab48-56238dbe04eb)
+![cover](https://github.com/bukped/bukpedp3_intermoni/assets/96001238/2a6349b8-81c6-48f4-9581-b9c5b90560de)
 
 **Biografi Penulis**
 
@@ -18,4 +18,4 @@ Pendidikan menjadi hal penting dalam perjalanan menuju karir yang sukses, dan pr
 
 **Penulis 3 :** Roni Habibi, adalah seorang akademisi dan praktisi Teknik Informatika dengan gelar S1 dari Universitas Nasional Pasim, S2 dari Institut Teknologi Bandung, dan sedang mengejar S3 di UPI. Sebagai Lektor dengan pangkat Penata Muda Tk. I/III-B, Roni memiliki sertifikat lisensi internasional seperti MTA AI-900 dan SFPC. Selain aktif dalam dunia pendidikan dan penelitian di bidang Sistem Informasi, beliau juga berperan sebagai Asessor BNSP LSP Politeknik Pos Indonesia dan menjabat sebagai Kabag. Infrastruktur dan Teknis DTI, menunjukkan kontribusi aktif dalam mengarahkan perkembangan teknologi informasi di Indonesia.
 
-![rohab](https://github.com/Fatwaff/bukpedp3_intermoni/assets/96001238/bb3b9662-ab7b-4038-b09b-593836ba702b)
+![pak roni habibi](https://github.com/Fatwaff/bukpedp3_intermoni/assets/96001238/bb3b9662-ab7b-4038-b09b-593836ba702b)
